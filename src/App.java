@@ -98,6 +98,14 @@ public class App {
 
         System.out.println("Removendo o último elemento: " + listaPilha);
 
+
+        // 3) Utilizando estrutura de dados LinkedList (ApiJava) gere uma 
+        //classe Chamada ListaLigada e que tenha como atributo um objeto 
+        //LiskedList, e possua os seguintes métodos: (4 pontos).
+        //     A. Implemente todos os métodos descrito no exercício 1;
+        //     B. Implemente um método que ao receber uma lista por parâmetro, ele realiza a união das lista atual com a lista passada por parâmetro e produz uma nova lista;
+
+
         System.out.println("\n3) A. \n");
 
         ListaLigada listaLigada = new ListaLigada();
